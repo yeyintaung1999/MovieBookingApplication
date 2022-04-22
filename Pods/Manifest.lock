@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.5.0)
+  - DGCarouselFlowLayout (1.0.0)
+  - iCarousel (1.8.3)
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
+  - SideMenu (6.5.0)
+  - UPCarouselFlowLayout (1.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - DGCarouselFlowLayout (from `https://github.com/donggyushin/DGCarouselFlowLayout`)
+  - iCarousel
+  - SDWebImage (~> 5.0)
+  - SideMenu
+  - UPCarouselFlowLayout
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - iCarousel
+    - SDWebImage
+    - SideMenu
+    - UPCarouselFlowLayout
+
+EXTERNAL SOURCES:
+  DGCarouselFlowLayout:
+    :git: https://github.com/donggyushin/DGCarouselFlowLayout
+
+CHECKOUT OPTIONS:
+  DGCarouselFlowLayout:
+    :commit: 09a2b93c31a8b0212ed19fd2451ad96cae2c956e
+    :git: https://github.com/donggyushin/DGCarouselFlowLayout
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  DGCarouselFlowLayout: 465dc8798912b79e2a0b3ff4c3cfe4af679d98f5
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  UPCarouselFlowLayout: 4c7d2c43a10ebb1597bde502a53699d378341dad
+
+PODFILE CHECKSUM: 21ad91c975cfc4c3e1e730640794dd99d9296171
+
+COCOAPODS: 1.11.2

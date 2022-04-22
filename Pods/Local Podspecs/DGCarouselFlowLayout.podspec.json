@@ -1,0 +1,23 @@
+{
+  "name": "DGCarouselFlowLayout",
+  "version": "1.0.0",
+  "summary": "A carousel flow layout for UICollectionView on iOS.",
+  "homepage": "https://github.com/donggyushin/DGCarouselFlowLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "donggyushin": "donggyu9410@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/donggyushin/DGCarouselFlowLayout.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.5",
+  "source_files": "Sources/DGCarouselFlowLayout/**/*",
+  "swift_version": "5.5"
+}

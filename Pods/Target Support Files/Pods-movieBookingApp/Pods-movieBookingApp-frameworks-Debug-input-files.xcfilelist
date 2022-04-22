@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-movieBookingApp/Pods-movieBookingApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/DGCarouselFlowLayout/DGCarouselFlowLayout.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SideMenu/SideMenu.framework
+${BUILT_PRODUCTS_DIR}/UPCarouselFlowLayout/UPCarouselFlowLayout.framework
+${BUILT_PRODUCTS_DIR}/iCarousel/iCarousel.framework
